@@ -225,4 +225,13 @@
   <data name="OutInfo" xml:space="preserve">
     <value>Press any key to exit</value>
   </data>
+  <data name="Separator" xml:space="preserve">
+    <value>=================================</value>
+  </data>
+  <data name="WordListFormat" xml:space="preserve">
+    <value>   {0}. {1}</value>
+  </data>
+  <data name="PressAnyKeyToExit" xml:space="preserve">
+    <value>Exiting game</value>
+  </data>
 </root>

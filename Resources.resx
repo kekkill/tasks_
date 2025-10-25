@@ -225,4 +225,13 @@
   <data name="OutInfo" xml:space="preserve">
     <value>Нажмите на любую клавишу чтобы выйти</value>
   </data>
+  <data name="Separator" xml:space="preserve">
+    <value>=================================</value>
+  </data>
+  <data name="WordListFormat" xml:space="preserve">
+    <value>   {0}. {1}</value>
+  </data>
+  <data name="PressAnyKeyToExit" xml:space="preserve">
+    <value>Выход из игры</value>
+  </data>
 </root>
